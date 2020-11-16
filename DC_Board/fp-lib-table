@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name Potentiometer)(type KiCad)(uri ${KIPRJMOD}/Libraries/Potentiometer.pretty)(options "")(descr ""))
+  (lib (name Quadra_LOGO)(type KiCad)(uri ${KIPRJMOD}/Libraries/Silkscreen_Logos)(options "")(descr ""))
+  (lib (name Square_Molex_4_pin_small)(type KiCad)(uri ${KIPRJMOD}/Libraries/Square_Molex_4pin.pretty)(options "")(descr ""))
+  (lib (name Relay_12)(type KiCad)(uri ${KIPRJMOD}/Libraries/EC2-5NU.pretty)(options "")(descr ""))
+  (lib (name 24_Pin_ATX)(type KiCad)(uri ${KIPRJMOD}/Libraries/24_pin_ATX.pretty)(options "")(descr ""))
+)

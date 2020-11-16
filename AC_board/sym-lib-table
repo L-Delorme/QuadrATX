@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name Pin_PC)(type Legacy)(uri ${KIPRJMOD}/Libraries/Pin_PC.pretty/JST_LV.lib)(options "")(descr ""))
+  (lib (name Spade_ATX_Quadra)(type Legacy)(uri ${KIPRJMOD}/Libraries/Spade.pretty/7471287.lib)(options "")(descr ""))
+  (lib (name Omron_Relay)(type Legacy)(uri ${KIPRJMOD}/Libraries/G6B-2214P-US-DC24-Relay.pretty/G6B-2214P-US-DC24.lib)(options "")(descr ""))
+)

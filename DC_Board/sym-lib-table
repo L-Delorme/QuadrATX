@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name ATX_24_pin_Connector)(type Legacy)(uri ${KIPRJMOD}/Libraries/24_pin_ATX.pretty/0039281243.lib)(options "")(descr ""))
+  (lib (name Molex_Square_4pin)(type Legacy)(uri ${KIPRJMOD}/Libraries/Square_Molex_4pin.pretty/26-01-3115.lib)(options "")(descr ""))
+  (lib (name Molex_Straight_4pin)(type Legacy)(uri ${KIPRJMOD}/Libraries/Straight_Molex_4pin/15-24-4449.lib)(options "")(descr ""))
+  (lib (name Relay_12)(type Legacy)(uri ${KIPRJMOD}/Libraries/EC2-5NU.pretty/EC2-5NU.lib)(options "")(descr ""))
+  (lib (name FQP30N06L_Mosfet)(type Legacy)(uri ${KIPRJMOD}/Libraries/FQP30N06L.pretty/FQP30N06L.lib)(options "")(descr ""))
+)
