@@ -2,7 +2,7 @@
 ATX mod for the Macintosh Quadra 900/950
 
 This is a work in progress mod. The AC Board has not been fully tested. Use at your own risk.
-The BOM has not been finilized. 
+The BOM has not been finalized. 
 Instructions on how to build a QuadrATX kit will follow. 
 
 Hardware protected by CC-BY-NC-SA-4.0 (Attribution-NonCommercial-ShareAlike)
