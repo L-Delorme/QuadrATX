@@ -4,4 +4,6 @@
   (lib (name Square_Molex_4_pin_small)(type KiCad)(uri ${KIPRJMOD}/Libraries/Square_Molex_4pin.pretty)(options "")(descr ""))
   (lib (name Relay_12)(type KiCad)(uri ${KIPRJMOD}/Libraries/EC2-5NU.pretty)(options "")(descr ""))
   (lib (name 24_Pin_ATX)(type KiCad)(uri ${KIPRJMOD}/Libraries/24_pin_ATX.pretty)(options "")(descr ""))
+  (lib (name Molex_Right_Angle)(type KiCad)(uri ${KIPRJMOD}/Libraries/LIB_641737-1.pretty)(options "")(descr ""))
+  (lib (name Molex_RA)(type KiCad)(uri ${KIPRJMOD}/Libraries/1-641737-1.pretty)(options "")(descr ""))
 )

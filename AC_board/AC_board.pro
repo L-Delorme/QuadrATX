@@ -1,4 +1,4 @@
-update=Monday, 16 November 2020 at 12:12:01
+update=Sunday, 01 May 2022 at 17:16:34
 version=1
 last_client=kicad
 [general]
@@ -261,7 +261,7 @@ dPairGap=0.25
 dPairViaGap=0.25
 [pcbnew/Netclasses/2]
 Name=Earth
-Clearance=4
+Clearance=2.5
 TrackWidth=3
 ViaDiameter=0.8
 ViaDrill=0.4
@@ -272,7 +272,7 @@ dPairGap=0.25
 dPairViaGap=0.25
 [pcbnew/Netclasses/3]
 Name=Power AC
-Clearance=5
+Clearance=4.5
 TrackWidth=3
 ViaDiameter=0.8
 ViaDrill=0.4

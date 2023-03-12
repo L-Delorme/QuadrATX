@@ -1,0 +1,179 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "641737-1"
+   (description "4w pcb mount R/A Pin Header")
+   (family "CON")
+   (package "641737-1")
+   (attribute "Datasheet Link" "https://componentsearchengine.com/Datasheets/2/641737-1.pdf")
+   (attribute "Manufacturer_Name" "TE Connectivity")
+   (attribute "Manufacturer_Part_Number" "641737-1")
+   (attribute "Mouser Part Number" "571-6417371")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/641737-1?qs=VTC3bPXuZxuOteVt3WNidA%3D%3D")
+   (attribute "Arrow Part Number" "641737-1")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/641737-1/te-connectivity?region=europe")
+   (gate
+    (symbol "641737-1")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+    (pin "3" 3 PS)
+    (pin "4" 4 PS)
+   )
+  )
+  (symbol "641737-1"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 600 100) (pt 600 -400) (pt 200 -400) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "641737-1"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -12.7 12)
+      (pt 12.7 12)
+      (pt 12.7 -1)
+      (pt -12.7 -1)
+      (pt -12.7 12))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -12.7 12)
+      (pt -12.7 -1))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 12.7 12)
+      (pt 12.7 -1))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 12.7 12)
+      (pt 6.364 12))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -12.7 12)
+      (pt -6.364 12))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -3.8 12)
+      (pt 3.8 12))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -12.7 -1)
+      (pt -8.623 -1))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 12.7 -1)
+      (pt 8.623 -1))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (circle
+      (pt 7.45122 -1.984) (pt 7.59478 -1.984)
+     )
+    )
+   )
+   (leg 1 (pt 7.62 0) (padstack 0))
+   (leg 2 (pt 2.54 0) (padstack 0))
+   (leg 3 (pt -2.54 0) (padstack 0))
+   (leg 4 (pt -7.62 0) (padstack 0))
+   (leg 5 (pt -10.16 2.54) (padstack 5))
+   (leg 6 (pt -5.08 10.16) (padstack 6))
+   (leg 7 (pt 5.08 10.16) (padstack 7))
+   (leg 8 (pt 10.16 2.54) (padstack 8))
+   (padstack 0
+    (hole 1.6)
+    (plated true)
+    (pad (layer TCOP) (round 2.4))
+    (pad (layer INNER) (round 2.4))
+    (pad (layer BCOP) (round 2.4))
+   )
+   (padstack 6
+    (hole 4)
+    (plated false)
+    (pad (layer TCOP) (round 4))
+    (pad (layer INNER) (round 4))
+    (pad (layer BCOP) (round 4))
+   )
+   (padstack 5
+    (hole 2.54)
+    (plated false)
+    (pad (layer TCOP) (round 2.54))
+    (pad (layer INNER) (round 2.54))
+    (pad (layer BCOP) (round 2.54))
+   )
+   (padstack 8
+    (hole 2.54)
+    (plated false)
+    (pad (layer TCOP) (round 2.54))
+    (pad (layer INNER) (round 2.54))
+    (pad (layer BCOP) (round 2.54))
+   )
+   (padstack 7
+    (hole 4)
+    (plated false)
+    (pad (layer TCOP) (round 4))
+    (pad (layer INNER) (round 4))
+    (pad (layer BCOP) (round 4))
+   )
+   (model "641737-1.stp"
+    (euler 90 0 180)
+    (offset 0 12.420000076293945 4.369999885559082)
+   )
+  )
+ )
+)

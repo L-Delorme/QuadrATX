@@ -1,0 +1,9 @@
+Manufacturer=TE Connectivity
+PartNumber=641737-1
+PartCategory=Connector
+PackageCategory=Other
+PinCount=4
+Version=2.1
+Released=2017-03-17 14:51:34
+Downloaded=2021-12-26 11:19:50
+3D=Y
